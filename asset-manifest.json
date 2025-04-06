@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Groomify/static/css/main.601ad33e.css",
+    "main.js": "/Groomify/static/js/main.2b6603bb.js",
+    "static/js/453.1c6316a0.chunk.js": "/Groomify/static/js/453.1c6316a0.chunk.js",
+    "static/media/cutting.mp4": "/Groomify/static/media/cutting.d2d43102b5cefb51646f.mp4",
+    "static/media/abt-bg.png": "/Groomify/static/media/abt-bg.1f4d837084529a18d0da.png",
+    "static/media/dog1.png": "/Groomify/static/media/dog1.5a89e9dee342b16d2a9a.png",
+    "static/media/ssd.png": "/Groomify/static/media/ssd.b5a8de760493be06df9a.png",
+    "static/media/rr.png": "/Groomify/static/media/rr.05ce625c3409a84710b9.png",
+    "static/media/dog5.png": "/Groomify/static/media/dog5.051ecfe2cbffb34815ee.png",
+    "static/media/ee.png": "/Groomify/static/media/ee.7c35f11ecab2af5a736c.png",
+    "static/media/testimonial.png": "/Groomify/static/media/testimonial.749d396e776f0943463b.png",
+    "static/media/dog4.png": "/Groomify/static/media/dog4.17c31f3aa74b25e842d1.png",
+    "static/media/dog6.png": "/Groomify/static/media/dog6.095862df445583d3ec37.png",
+    "static/media/dog3.png": "/Groomify/static/media/dog3.ef93404d3e89b95b5d19.png",
+    "static/media/dog2.png": "/Groomify/static/media/dog2.80c6b190e7e5a2f507b6.png",
+    "index.html": "/Groomify/index.html",
+    "main.601ad33e.css.map": "/Groomify/static/css/main.601ad33e.css.map",
+    "main.2b6603bb.js.map": "/Groomify/static/js/main.2b6603bb.js.map",
+    "453.1c6316a0.chunk.js.map": "/Groomify/static/js/453.1c6316a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.601ad33e.css",
+    "static/js/main.2b6603bb.js"
+  ]
+}
