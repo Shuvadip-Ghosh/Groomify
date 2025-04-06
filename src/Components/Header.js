@@ -15,7 +15,7 @@ export default function Header() {
 		<div className="mid">
 			<ul>
 				<li><a href="#about">About</a></li>
-				<li>Services</li>
+				<li><a href="#services">Services</a></li>
 				<li>Gallery</li>
 				<li>FAQs</li>
 			</ul>
