@@ -17,7 +17,7 @@ export default function Header() {
 				<li><a href="#about">About</a></li>
 				<li><a href="#services">Services</a></li>
 				<li>Gallery</li>
-				<li>FAQs</li>
+				<li><a href="#FAQ">FAQs</a></li>
 			</ul>
 		</div>
 		<div className="right">

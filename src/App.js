@@ -7,6 +7,8 @@ import Home from "./Components/Home.js";
 import About from "./Components/About.js";
 import Footer from "./Components/Footer.js";
 import Services from "./Components/Services.js";
+import Gallery from "./Components/Gallery.js";
+import FAQ from "./Components/FAQ.js";
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
     <Home/>
     <About bg_img={bg_img}/>
     <Services bg_img={bg_img}/>
+    <Gallery bg_img={bg_img}/>
+    <FAQ bg_img={bg_img}/>
     <Footer/>
     </>
   );
