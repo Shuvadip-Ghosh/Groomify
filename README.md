@@ -7,7 +7,8 @@
 **Groomify** is a frontend-only React project I built to practice my web development skills.  
 The visual design of this site was originally created by **Justyna** on [Framer](https://groomify.framer.website/), and I have faithfully recreated it using **React**.
 
-👉 **Live Demo**: [Groomify](https://shuvadip-ghosh.github.io/Groomify/)
+👉 **Live Demo**: [Groomify](https://shuvadip-ghosh.github.io/Groomify/) (made using React)
+👉 **Live Demo**: [Groomify](https://groomify.framer.website/) (made using Framer)
 
 ⚠️ **Important Note**:  
 - I do **not claim ownership** of the original design.  
@@ -27,7 +28,7 @@ The visual design of this site was originally created by **Justyna** on [Framer]
 
 ## 🖋️ Credits
 
-**Design by**: [Justyna on Framer](https://groomify.framer.website/)  
-**React Implementation by**: [Shuvadip Ghosh](https://github.com/shuvadip-ghosh)  
+**Design by**: [Justyna on Framer](https://www.framer.com/@justyna/?via=98syoxe&dub_id=EpbKtLu3nqphEWME)  
+**React Implementation by**: [Shuvadip Ghosh](https://shuvadip-ghosh.vercel.app/)  
 **Built in React · Designed in Framer**  
 © 2025 Justyna & Shuvadip. All rights reserved.
