@@ -16,7 +16,7 @@ export default function Header() {
 			<ul>
 				<li><a href="#about">About</a></li>
 				<li><a href="#services">Services</a></li>
-				<li>Gallery</li>
+				<li><a href="#gallery">Gallery</a></li>
 				<li><a href="#FAQ">FAQs</a></li>
 			</ul>
 		</div>
