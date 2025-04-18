@@ -15,13 +15,28 @@ export default function Services(props) {
 			ref.current.style.transform = i === activeIndex - 1 ? "translateX(0%)" : "translateX(-100%)";
 			ref.current.style.height = i === activeIndex - 1 ? "60vh" : "0vh";
 			ref.current.style.opacity = i === activeIndex - 1 ? "1" : "0";
-		});
+			if (i === activeIndex-1) {
+				ref.current.classList.add("slo");
+			}
+			else{
+				ref.current.classList.remove("slo");
 
+			}
+		});
+		
 		refd.forEach((ref, i) => {
 			ref.current.style.transition = "transform 0.6s ease";
 			ref.current.style.transform = i === activeIndex - 1 ? "translateX(0%)" : "translateX(100%)";
 			ref.current.style.height = i === activeIndex - 1 ? "60vh" : "0vh";
 			ref.current.style.opacity = i === activeIndex - 1 ? "1" : "0";
+			ref.current.parentElement.style.gap = i === activeIndex - 1 ? "2.5rem" : "0";
+			if (i === activeIndex-1) {
+				ref.current.classList.add("sro");
+			}
+			else{
+				ref.current.classList.remove("sro");
+			}
+			
 		});
 	}, [activeIndex]);
 
