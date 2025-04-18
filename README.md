@@ -30,5 +30,4 @@ The visual design of this site was originally created by **Justyna** on [Framer]
 
 **Design by**: [Justyna on Framer](https://www.framer.com/@justyna/?via=98syoxe&dub_id=EpbKtLu3nqphEWME)  
 **React Implementation by**: [Shuvadip Ghosh](https://shuvadip-ghosh.vercel.app/)  
-**Built in React · Designed in Framer**  
-© 2025 Justyna & Shuvadip. All rights reserved.
+**Built in React · Designed in Framer**

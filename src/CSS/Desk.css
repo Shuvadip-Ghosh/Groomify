@@ -751,7 +751,7 @@ nav>.left>.ll>svg {
 
 /* Footer */
 .footer {
-	height: 10rem;
+	height: 20rem;
 }
 
 .footer>nav {
@@ -786,6 +786,24 @@ nav>.left>.ll>svg {
 }
 .m{
 	display: none;
+}
+.fl3{
+	width: 72%;
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	margin-top: 3rem;
+}
+.fl3>ul{
+	flex-direction: column;
+	gap: 0.2rem;
+}
+.fl3>ul>li{
+	list-style: circle;
+}
+.fl3>ul>li>p{
+	width: 100%;
+	font-weight: bolder;
 }
 
 /* Footer */
