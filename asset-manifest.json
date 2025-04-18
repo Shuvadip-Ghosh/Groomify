@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Groomify/static/css/main.b848518d.css",
-    "main.js": "/Groomify/static/js/main.743df3f2.js",
+    "main.css": "/Groomify/static/css/main.9fea86b5.css",
+    "main.js": "/Groomify/static/js/main.84e5895d.js",
     "static/js/453.1c6316a0.chunk.js": "/Groomify/static/js/453.1c6316a0.chunk.js",
     "static/media/cutting.mp4": "/Groomify/static/media/cutting.d2d43102b5cefb51646f.mp4",
     "static/media/abt-bg.png": "/Groomify/static/media/abt-bg.1f4d837084529a18d0da.png",
@@ -21,12 +21,12 @@
     "static/media/dog9.png": "/Groomify/static/media/dog9.c1088c089a4ae1e92876.png",
     "static/media/dog11.png": "/Groomify/static/media/dog11.7b5710e06e4183de1f8d.png",
     "index.html": "/Groomify/index.html",
-    "main.b848518d.css.map": "/Groomify/static/css/main.b848518d.css.map",
-    "main.743df3f2.js.map": "/Groomify/static/js/main.743df3f2.js.map",
+    "main.9fea86b5.css.map": "/Groomify/static/css/main.9fea86b5.css.map",
+    "main.84e5895d.js.map": "/Groomify/static/js/main.84e5895d.js.map",
     "453.1c6316a0.chunk.js.map": "/Groomify/static/js/453.1c6316a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b848518d.css",
-    "static/js/main.743df3f2.js"
+    "static/css/main.9fea86b5.css",
+    "static/js/main.84e5895d.js"
   ]
 }
