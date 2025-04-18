@@ -25,4 +25,3 @@ function App() {
 }
 
 export default App;
-// © 2025 Justyna & Shuvadip. All rights reserved.
