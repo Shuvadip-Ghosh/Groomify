@@ -66,7 +66,6 @@ export default function Services(props) {
 								</svg>
 								The Royal Retreat
 							</div>
-
 						</div>
 						<div className="servtbcont">
 							<div className={`servcont`}>

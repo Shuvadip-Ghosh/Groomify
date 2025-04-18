@@ -23,12 +23,15 @@ export default function Footer() {
 					</div>
 				</nav>
 				<nav>
-					<div className="left">
-						<p>
+					<div className="left fl2">
+						<p className='d'>
 							Design by <a href="https://www.framer.com/@justyna/?via=98syoxe&dub_id=EpbKtLu3nqphEWME" target="_blank" rel="noopener noreferrer">Justyna</a> in Framer · Developed in React by <a href="https://shuvadip-ghosh.vercel.app/" target="_blank" rel="noopener noreferrer">Shuvadip Ghosh</a> · © 2025 All rights reserved.
 						</p>
+						<p className='m'>Design by <a href="https://www.framer.com/@justyna/?via=98syoxe&dub_id=EpbKtLu3nqphEWME" target="_blank" rel="noopener noreferrer">Justyna</a> in Framer</p>
+						<p className='m'>Developed in React by <a href="https://shuvadip-ghosh.vercel.app/" target="_blank" rel="noopener noreferrer">Shuvadip Ghosh</a> </p>
+						<p className='m'>© 2025 All rights reserved.</p>
 					</div>
-					<div className="right">
+					<div className="mid">
 						<ul>
 							<li>Privacy Policy</li>
 							<li>Salon Policies</li>

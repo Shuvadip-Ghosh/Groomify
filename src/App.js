@@ -1,14 +1,14 @@
 import bg_img from "./images/abt-bg.png"
-import './CSS/Mob.css';
-import './CSS/Tab.css';
 import './CSS/Desk.css';
+import './CSS/Tab.css';
+import './CSS/Mob.css';
 import Header from "./Components/Header.js";
 import Home from "./Components/Home.js";
 import About from "./Components/About.js";
-import Footer from "./Components/Footer.js";
 import Services from "./Components/Services.js";
 import Gallery from "./Components/Gallery.js";
 import FAQ from "./Components/FAQ.js";
+import Footer from "./Components/Footer.js";
 
 function App() {
   return (

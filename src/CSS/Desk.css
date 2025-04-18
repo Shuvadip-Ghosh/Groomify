@@ -81,13 +81,14 @@ nav {
 	top: 0;
 }
 
-nav>.left {
+nav>.left>.ll {
 	font-size: 1.5rem;
 	display: flex;
 	align-items: center;
+	font-weight: 600;
 }
 
-nav>.left>svg {
+nav>.left>.ll>svg {
 	width: 1.5rem;
 	height: 1.5rem;
 	padding: 0.4rem;
@@ -95,6 +96,10 @@ nav>.left>svg {
 	margin-right: 1rem;
 	color: white;
 	background-color: var(--primary-color);
+}
+
+.bi-list {
+	display: none;
 }
 
 .mid>ul>li {
@@ -153,6 +158,7 @@ nav>.left>svg {
 
 .right>svg {
 	width: 2rem;
+	height: 2rem;
 	padding: 0.8rem;
 	border: 0.8rem solid white;
 	border-radius: 3rem;
@@ -314,15 +320,16 @@ nav>.left>svg {
 .cutting {
 	width: 100%;
 	overflow: hidden;
-	height: 140vh;
+	height: 125vh;
+	padding: 5rem 0;
 }
 
 .cut-cont {
 	width: 60%;
-	margin: 5rem auto;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	margin: auto;
 }
 
 .cut-cont>* {
@@ -455,6 +462,7 @@ nav>.left>svg {
 .sr>ul>li {
 	display: flex;
 	gap: 0.5rem;
+	text-align: start;
 }
 
 .sr>.bkapt {
@@ -570,6 +578,7 @@ nav>.left>svg {
 	0% {
 		transform: translateX(0);
 	}
+
 	100% {
 		transform: translateX(-50%);
 	}
@@ -695,7 +704,8 @@ nav>.left>svg {
 .cright {
 	width: 40%;
 }
-.ccard{
+
+.ccard {
 	padding: 1.5rem 2rem;
 	display: flex;
 	flex-direction: column;
@@ -707,16 +717,19 @@ nav>.left>svg {
 	border-radius: 0.375rem;
 	box-shadow: rgba(212, 212, 212, 0.035) 0px 0.361312px 0.650362px -0.166667px inset, rgba(212, 212, 212, 0.07) 0px 1.37312px 2.47162px -0.333333px inset, rgba(212, 212, 212, 0.224) 0px 6px 10.8px -0.5px inset;
 }
-.ccard>*{
+
+.ccard>* {
 	margin-bottom: 0.8rem;
 }
+
 .ccard>.bkapt {
 	padding: 0.4rem;
 	width: fit-content;
 	height: 2rem;
 	border-radius: 0.5rem;
 }
-.ccard>.sv{
+
+.ccard>.sv {
 	border-radius: 50%;
 	overflow: hidden;
 	width: 3rem;
@@ -727,7 +740,8 @@ nav>.left>svg {
 	border: 1px solid rgba(89, 94, 102, .15);
 	box-shadow: rgba(212, 212, 212, 0.035) 0px 0.361312px 0.650362px -0.166667px inset, rgba(212, 212, 212, 0.07) 0px 1.37312px 2.47162px -0.333333px inset, rgba(212, 212, 212, 0.224) 0px 6px 10.8px -0.5px inset;
 }
-.ccard>.sv>svg{
+
+.ccard>.sv>svg {
 	border-radius: 0;
 	height: 2rem;
 	width: 2rem;
@@ -739,13 +753,39 @@ nav>.left>svg {
 .footer {
 	height: 10rem;
 }
-.footer>nav{
+
+.footer>nav {
 	width: 75%;
 	justify-content: space-between;
 	margin: auto;
+	position: relative;
 }
-.footer>nav>.left>p{
+
+.footer>nav>.left>p {
 	font-size: 1rem;
 	white-space: nowrap;
 }
+
+.footer>nav>.left{
+	display: flex;
+	align-items: center;
+	font-size: 1.5rem;
+	font-weight: 600;
+}
+.footer>nav>.left>svg {
+	width: 1.5rem;
+	height: 1.5rem;
+	padding: 0.4rem;
+	border-radius: 50%;
+	margin-right: 1rem;
+	color: white;
+	background-color: var(--primary-color);
+}
+.footer>nav>.mid>ul{
+	gap: 1rem;
+}
+.m{
+	display: none;
+}
+
 /* Footer */
